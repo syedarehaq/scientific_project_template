@@ -1,0 +1,1 @@
+Any media that is not produces by code but required by the project.
